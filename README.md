@@ -1,11 +1,15 @@
 # DevOpsDayLessonPlan
-
- - Introduction to DevOps
- - Maven Lifecycle Review
- - Continuous integration
- - Continuous delivery
- - Continuous deployment
- - AWS CodePipeline
- - AWS CodeBuild
- - AWS CloudWatch
- - AWS Elastic Beanstalk
+ - [DevOps Overview]()
+ - DevOps and Agile
+ - Maven: Lifecycle Review
+ - Continuous Integration
+ - Continuous Delivery
+ - Continuous Deployment
+ - AWS
+   - CodePipeline
+   - CodeBuild
+   - Elastic Beanstalk
+   - Cloud Watch
+ - Comparing AWS CodePipeline & CodeBuild
+ - Jenkins
+ - SonalClour & SonarLint

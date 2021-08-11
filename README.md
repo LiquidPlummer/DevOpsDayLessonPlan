@@ -1,10 +1,10 @@
-# DevOpsDayLessonPlan
+# DevOps Day Lesson Plan
  - [DevOps Overview](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/devops-overview.md)
  - [DevOps and Agile](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/devops-and-agile.md)
  - [Maven: Lifecycle Review](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/maven-lifecycle-review.md)
- - Continuous Integration
- - Continuous Delivery
- - Continuous Deployment
+ - [Continuous Integration](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/continuous-integration.md)
+ - [Continuous Delivery](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/continuous-delivery.md)
+ - [Continuous Deployment](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/continuous-deployment.md)
  - AWS
    - CodePipeline
    - CodeBuild

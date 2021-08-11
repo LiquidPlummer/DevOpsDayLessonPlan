@@ -5,5 +5,12 @@ The primary goal of DevOps is to expedite the lifecycle of application developme
 
 ![DevOps](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/DevOps.png?raw=true)
 
-## DevOps and Agile
-
+The steps or phases for Dev Ops refers to the creation, testing, and deployment of an application.  
+  
+These steps include:  
+  
+ 1. Source code Control: Producing (writing) code and pushing to a repository
+ 1. Building and Testing Automation: Test basic functionality of code (Generally unit testing) and create a new, working build
+ 1. Deploying to Staging: Deployment of working build to a temporary environment
+ 1. Acceptance Testing: Undergo other more complex tests (systems, integration) within temporary environment
+ 1. Deployment of Build: Migrate working build to Production environment accessible by end users

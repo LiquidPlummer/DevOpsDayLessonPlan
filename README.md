@@ -1,7 +1,7 @@
 # DevOpsDayLessonPlan
  - [DevOps Overview](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/devops-overview.md)
  - [DevOps and Agile](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/devops-and-agile.md)
- - Maven: Lifecycle Review
+ - [Maven: Lifecycle Review](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/maven-lifecycle-review.md)
  - Continuous Integration
  - Continuous Delivery
  - Continuous Deployment

@@ -11,5 +11,3 @@
    - [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html)
    - [Cloud Watch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
  - Comparing AWS CodePipeline & CodeBuild
- - Jenkins
- - SonalClour & SonarLint

@@ -6,10 +6,10 @@
  - [Continuous Delivery](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/continuous-delivery-deployment.md)
  - [Continuous Deployment](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/continuous-delivery-deployment.md)
  - AWS
-   - CodePipeline
-   - CodeBuild
-   - Elastic Beanstalk
-   - Cloud Watch
+   - [CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
+   - [CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
+   - [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html)
+   - [Cloud Watch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
  - Comparing AWS CodePipeline & CodeBuild
  - Jenkins
  - SonalClour & SonarLint

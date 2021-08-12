@@ -8,6 +8,6 @@
  - AWS
    - [CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
    - [CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
-   - [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html)
+   - [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
    - [Cloud Watch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
  - Comparing AWS CodePipeline & CodeBuild

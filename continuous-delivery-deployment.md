@@ -10,3 +10,13 @@ Continuous Deployment(CD) advances continuous delivery by also automating the de
   
 ![Continuous Deployment](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/continuous-deployment.png?raw=true)  
   
+Benefits of CD:
+ - Rapid development process
+ - Rapid feedback
+ - Smaller and less risky releases
+ - Regular updates offering users improvements
+  
+Costs:
+ - Requires substantial initial investment
+ - Requires continuous investment for maintaining pipeline
+ - Documentation, communication, coordination become even more important

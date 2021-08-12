@@ -18,5 +18,8 @@ Benefits of CD:
   
 Costs:
  - Requires substantial initial investment
+   - Money
+   - Time
+   - Major paradigm shift
  - Requires continuous investment for maintaining pipeline
  - Documentation, communication, coordination become even more important

@@ -1,4 +1,8 @@
 # DevOps Day Lesson Plan
+We'll review Maven, go over DevOps, CI/CD, and a number of AWS CI/CD tools. 
+  
+Then we will use these tools to develop a simple complete CI/CD pipeline.
+
  - [DevOps Overview](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/devops-overview.md)
  - [DevOps and Agile](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/devops-and-agile.md)
  - [Maven: Lifecycle Review](https://github.com/LiquidPlummer/DevOpsDayLessonPlan/blob/main/maven-lifecycle-review.md)
